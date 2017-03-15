@@ -7,7 +7,7 @@ is the main controller of the program. Step1Main and Step2Main are test cases.
 
 # Program Diagram #
 OverdueChecker -----> Scanner
-     |
+     | \n
      |
      |
      +-> BookTracker ------> LibraryBook     
